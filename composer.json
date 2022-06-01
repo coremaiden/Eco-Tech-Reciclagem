@@ -1,0 +1,16 @@
+{
+    "name": "user1/carlos_evaristo",
+    "description": "Web 2 PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Carlos Evaristo da Costa Lino"
+        }
+    ],
+    "require": {}
+}
